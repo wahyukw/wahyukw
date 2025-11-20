@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 I'm transitioning into iOS development with a passion for building elegant mobile applications. Coming from a background in Business Strategy & Operations, with a touch of UX Design, I bring a unique perspective that combines clean code with thoughtful user experiences.
@@ -20,8 +18,6 @@ I'm transitioning into iOS development with a passion for building elegant mobil
 - 💼 **Status:** Actively seeking junior iOS developer roles (remote or Indonesia-based)
 - 💬 **Ask me about:** Life advice, traveling, food, tech gear, or my journey into iOS development
 - 📫 **Reach me:** [wahyukwan@gmail.com](mailto:wahyukwan@gmail.com)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -44,32 +40,46 @@ I'm transitioning into iOS development with a passion for building elegant mobil
 - MVVM (Model-View-ViewModel)
 - RESTful API Integration
 - Async/Await & Concurrency
-- Unit Testing with XCTest
 
----
 
-## 📂 Featured Projects
+📂 Featured Projects
+🐾 Pawfect Guide
 
-### 🧾 Split Bill App
-> A practical expense-splitting application where users can add items, assign them to multiple people, and automatically calculate individual costs.
+An iOS app for exploring dog breeds with photos and detailed information using The Dog API.
 
-**Tech Stack:** Swift, SwiftUI, SwiftData, MVVM
-- Multi-person item assignment
-- Real-time cost calculation
-- Local data persistence with SwiftData
-- Clean architecture and separation of concerns
+Tech Stack: Swift, SwiftUI, MVVM, Async/Await
 
-🔗 [View Repository](#) *(Coming soon)*
+High-quality breed images via API integration
+Breed information including groups and temperaments
+Interactive onboarding experience
+Input validation and error handling
 
----
+🔗 [Project 1 - Pawfect Guide](https://github.com/wahyukw/Pawfect-Guide)
 
-### 📱 More Projects
-Additional projects from my iOS development journey will be added here as I continue building my portfolio.
+📊 DB Project Tracker
 
-🔗 [Project 2 - Coming Soon](#)
-🔗 [Project 3 - Coming Soon](#)
+A project management application for tracking tasks, deadlines, and progress with local data persistence.
 
----
+Tech Stack: Swift, SwiftUI, SwiftData, MVVM
+
+Create and manage projects with tasks
+SwiftData for local persistence
+CRUD operations with relationships
+Clean architecture
+
+🔗 [Project 2 - Database Project Tracker](https://github.com/wahyukw/db-project-tracker)
+
+🍳 Recipe Book
+
+A recipe management app for organizing and discovering your favorite dishes.
+
+Tech Stack: Swift, SwiftUI, SwiftData
+
+Save and organize recipes
+Local data persistence with SwiftData
+User-friendly interface for recipe browsing
+
+🔗 [Project 3 - Recipe Book](https://github.com/wahyukw/Recipe-Book)
 
 ## 📊 GitHub Stats
 
