@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm transitioning into iOS development with a passion for building elegant mobile applications. Coming from a background in UX Design, I bring a unique perspective that combines clean code with thoughtful user experiences.
+I'm transitioning into iOS development with a passion for building elegant mobile applications. Coming from a background in Business Strategy & Operations, with a touch of UX Design, I bring a unique perspective that combines clean code with thoughtful user experiences.
 
 - 📱 **Currently building:** A Split Bill App using Swift, SwiftUI, and SwiftData
 - 🌱 **Currently learning:** Swift, SwiftUI, SwiftData, Unit Testing, Memory Management, MVVM Architecture
