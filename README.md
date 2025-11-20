@@ -42,7 +42,7 @@ I'm transitioning into iOS development with a passion for building elegant mobil
 - Async/Await & Concurrency
 
 
-📂 Featured Projects
+### 📂 Featured Projects
 🐾 Pawfect Guide
 
 An iOS app for exploring dog breeds with photos and detailed information using The Dog API.
