@@ -102,7 +102,7 @@ Additional projects from my iOS development journey will be added here as I cont
 - 🏗️ **Clean Architecture:** Strong understanding of MVVM and separation of concerns
 - 🔄 **Version Control:** Comfortable with Git workflows and collaboration
 - 🧪 **Quality Focus:** Learning and implementing unit testing practices
-- 🚀 **Fast Learner:** Quick to adapt and master new technologies and patterns
+- 🚀 **Fast Learner:** Quick to adapt new technologies and patterns
 
 ---
 
