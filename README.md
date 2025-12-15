@@ -43,7 +43,7 @@ I'm transitioning into iOS development with a passion for building elegant mobil
 - **Protocol-Oriented Programming (POP)** 👈 **NEW**
 - RESTful API Integration
 - Async/Await & Concurrency
-
+---
 
 ### 📂 Featured Projects
 
@@ -58,6 +58,19 @@ I'm transitioning into iOS development with a passion for building elegant mobil
 * **Quality & Integrity:** Ensured data persistence and integrity during complex view lifecycle events; includes **XCTest** integration for core business logic validation.
 
 🔗 [Project 4 - Bagirata](https://github.com/wahyukw/Bagirata)
+
+#### 🎬 StreamFlix (Featured Project)
+
+**A functional, concurrently-driven Movie and TV Series Streaming Catalogue (MVP)**.
+
+**Tech Stack:** Swift, SwiftUI, **Swift Concurrency (Async/Await)**, **Observation Framework**, RESTful API, **Protocol Oriented Programming**.
+
+* **Concurrency Architecture (Async/Await)**: Architected a robust, layered concurrency system (@MainActor, actor, async let) to efficiently manage background network decoding and UI updates, ensuring a responsive user experience.
+* **High-Efficiency Data Loading**: Implemented parallel loading using async let within the HomeViewModel to fetch multiple data streams (Trending Movies, Top Rated TV, etc.) simultaneously, dramatically reducing initial load time.
+* **Scalable State & Navigation**: Utilized the modern @Observable framework for reactive state propagation and integrated Tabviews for fluid navigation across multiple pages.
+* **Robust Data Handling**: Implemented Infinite Scrolling (Pagination) logic within ViewModels to handle discovery endpoints, loading additional content on demand to conserve bandwidth and memory.
+
+🔗 [Project 5 - StreamFlix](https://github.com/wahyukw/streamflix)
 
 ***
 
